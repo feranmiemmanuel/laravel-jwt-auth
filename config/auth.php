@@ -23,6 +23,7 @@ return [
             'provider' => 'users',
             'hash' => false,
         ],
+    ],
     /*
     |--------------------------------------------------------------------------
     | Authentication Guards
